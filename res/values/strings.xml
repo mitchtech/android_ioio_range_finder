@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IOIO Range Finder</string>
+    <string name="x_text">Infrared Proximity Sensor:</string>
+    <string name="y_text">Ultrasonic Range Finder:</string>
+    <string name="zero">0</string>
+
+</resources>
